@@ -1,0 +1,27 @@
+{
+  "name": "Sia",
+  "version": "1.0.0",
+  "description": "成语故事",
+  "main": "index.js",
+  "scripts": {
+    "watch": "gitbook serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hotoo/sia.git"
+  },
+  "keywords": [
+    "Chengyu",
+    "成语"
+  ],
+  "author": "闲耘 <hotoo.cn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hotoo/sia/issues"
+  },
+  "homepage": "https://github.com/hotoo/sia#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
